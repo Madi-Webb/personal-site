@@ -13,9 +13,9 @@ export const projectData = [
     {
         id: 2,
         name: "Stranger's Things",
-        img: "https://flxt.tmsimg.com/assets/p12991665_b_v13_am.jpg",
+        img: "https://i.imgur.com/9dy8qQQ.png",
         link: "https://my-strangers-things.netlify.app/",
-        description: "Stranger's Things is a ",
+        description: "Stranger's Things is a 'Craigslist' type fake E-Commerce site. This project focuses mainly on front-end skills with React v18, register and login to message other users about products and make your own posts. The site connects to the back-end with fetches from an API to Create, Read, Update, and Destroy data with user authentication via JSON Web Tokens (JWT) ~ and all in a Stranger Things theme because... you know.",
         collaboration: false,
         skills: ["React.js", "Express.js", "PostgreSQL", "CSS", "HTML"]
     },
@@ -33,7 +33,7 @@ export const projectData = [
     {
         id: 4,
         name: "Puppy Bowl",    
-        img: "https://dailysportsedge.com/wp-content/uploads/2018/12/Dog-Running-With-Football.jpg",
+        img: "https://i.imgur.com/sl9yNBs.png",
         link: "https://my-puppy-bowl.netlify.app/",
         description: "Puppy Bowl is a ",
         collaboration: false,
@@ -43,8 +43,8 @@ export const projectData = [
     {
         id: 5,
         name: "Coffee Clicker",
-        img: "https://cdn.mos.cms.futurecdn.net/6e3xY8mwko3qSXVQM22pFD.jpg",
-        link: "https://my-coffee-clicker.netlify.app/",
+        img: "https://i.imgur.com/G5Nekve.png",
+        link: "https://coffee-clicker-mw.netlify.app/",
         description: "Coffee Clicker is a ",
         collaboration: false,
         skills: ["React.js", "CSS", "HTML"]
@@ -53,11 +53,11 @@ export const projectData = [
     {
         id: 6,
         name: "Connect 4",
-        img: "https://cf.geekdo-images.com/I_ZPIWEvFlrMa8caT4UD-w__opengraph/img/kyLinLT_XujloY21Omjf5p7q1SA=/fit-in/1200x630/filters:strip_icc()/pic859430.jpg",
-        link: "https://my-connect-4.netlify.app/",
+        img: "https://i.imgur.com/FhQ2BwX.png",
+        link: "https://connect-4-mw.netlify.app/",
         description: "Connect 4 is a ",
         collaboration: false,
-        skills: ["React.js", "CSS", "HTML"]
+        skills: ["Vanilla Javascript", "CSS", "HTML"]
     },
 
     // {
