@@ -36,9 +36,8 @@ const Projects = () => {
     }
 
     return (
-        <div className='vert-center-container'>
-            <div className='project-statement'>something about my projects</div>
-
+        <div className='vert-center-container' id='Projects'>
+            <div className='section-title'>Projects</div>
             <div className='projects-preview-container'>
                 <AiOutlineLeft className='slider-nav' onClick={sliderLeft}/>
 
@@ -54,7 +53,7 @@ const Projects = () => {
             </div>
 
             {
-                toggleProjectInfo ? <ProjectInfo project={currentProject} /> : null
+                toggleProjectInfo ? <ProjectInfo project={currentProject} setToggleProjectInfo={setToggleProjectInfo} /> : null
             }
 
         </div>
