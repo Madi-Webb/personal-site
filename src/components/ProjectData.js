@@ -20,15 +20,15 @@ export const projectData = [
         skills: ["React.js", "Express.js", "PostgreSQL", "CSS", "HTML"]
     },
 
-    // {
-    //     id: 3,
-    //     name: "Fitness Trackr",
-    //     img: "https://thatgrapejuice.net/wp-content/uploads/2022/10/jonathan-majors-mens-health-cover-tgj.jpeg",
-    //     link: "https://my-fitness-trackr.netlify.app/",
-    //     description: "Fitness Trackr is a ",
-    //     collaboration: true,
-    //     skills: ["React.js", "Express.js", "PostgreSQL", "CSS", "HTML"]
-    // },
+    {
+        id: 3,
+        name: "Fitness Trackr",
+        img: "https://i.imgur.com/ErNSEsj.png",
+        link: "https://my-fitness-trackr.netlify.app/",
+        description: "Fitness Trackr is a workout planning and tracking site. I worked with a teammate to design this project's backend database and API, then translate that data into an appealing frontend. Register an account to create your own routines and start your fitness journey.",
+        collaboration: true,
+        skills: ["React.js", "Express.js", "PostgreSQL", "CSS", "HTML"]
+    },
 
     {
         id: 4,
