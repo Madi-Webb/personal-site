@@ -12,6 +12,16 @@ export const projectData = [
 
     {
         id: 2,
+        name: "Mighty Paddle",
+        img: "https://i.imgur.com/5oETRMc.png",
+        link: "https://mightypaddle.netlify.app/",
+        description: "Mighty Paddle is a site I made for a client wanting to promote the launch of their new product. The MIGHTYPaddle is the world's first motorized paddleboarding paddle designed to enhance any paddleboarder's experience with easy cruising! The site is a React app that promotes and describes the product, encourages redirection to a crowdfunding page, and provides company information and services. Jaamb enterprise employees can log in to review messages, update gallery photos, and update blog posts.",
+        collaboration: false,
+        skills: ["React.js", "Express.js", "PostgreSQL", "CSS", "HTML"]
+    },
+
+    {
+        id: 3,
         name: "Stranger's Things",
         img: "https://i.imgur.com/9dy8qQQ.png",
         link: "https://strangers-things-mw.netlify.app/",
@@ -21,7 +31,7 @@ export const projectData = [
     },
 
     {
-        id: 3,
+        id: 4,
         name: "Fitness Trackr",
         img: "https://i.imgur.com/ErNSEsj.png",
         link: "https://my-fitness-trackr.netlify.app/",
@@ -31,7 +41,7 @@ export const projectData = [
     },
 
     {
-        id: 4,
+        id: 5,
         name: "Puppy Bowl",    
         img: "https://i.imgur.com/sl9yNBs.png",
         link: "https://puppy-bowl-mw.netlify.app/",
@@ -41,7 +51,7 @@ export const projectData = [
     },
 
     {
-        id: 5,
+        id: 6,
         name: "Coffee Clicker",
         img: "https://i.imgur.com/G5Nekve.png",
         link: "https://coffee-clicker-mw.netlify.app/",
@@ -51,7 +61,7 @@ export const projectData = [
     },
 
     {
-        id: 6,
+        id: 7,
         name: "Connect 4",
         img: "https://i.imgur.com/FhQ2BwX.png",
         link: "https://connect-4-mw.netlify.app/",
@@ -61,7 +71,7 @@ export const projectData = [
     },
 
     // {
-    //     id: 7,
+    //     id: 8,
     //     name: "Wizard News",
     //     img: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2021-11/211116-harry-potter-al-1232-b41548.jpg",
     //     link: "https://wizardnewswithpnd.fly.dev",
