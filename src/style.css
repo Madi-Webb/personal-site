@@ -433,9 +433,9 @@ nav {
     position: absolute;
     top: -35px;
     left: 50%;
-    /* -( 70 + 10 ) / 2 = -40px */
-    margin-left: -40px;
-    width: 70px;
+    /* -( 80 + 10 ) / 2 = -45px */
+    margin-left: -45px;
+    width: 80px;
     z-index: 2;
     padding: 5px;
     border-radius: 10px;
