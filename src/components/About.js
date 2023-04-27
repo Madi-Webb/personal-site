@@ -19,9 +19,10 @@ const About = () => {
                     <div className='skillbox'><img alt='Python Logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png'></img>Python</div>
                     <div className='skillbox'><img alt='Java Logo' src='https://i.imgur.com/iGBkQld.png'></img>Java</div>
                     <div className='skillbox'><img alt='JavaScript Logo' src='https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png'></img>JavaScript</div>
+                    <div className='skillbox'><img alt='HTML5 Logo' src='https://i.imgur.com/mTnw9zc.png'></img>HTML5</div>
                 </div>
                 <div className='skillbox-container'>
-                    <div className='skillbox'><img alt='HTML5 Logo' src='https://i.imgur.com/mTnw9zc.png'></img>HTML5</div>
+                    <div className='skillbox'><img alt='Sass Logo' src='https://i.imgur.com/3dtCv52.png'></img>Sass</div>
                     <div className='skillbox'><img alt='CSS3 Logo' src='https://i.imgur.com/9mszQfu.png'></img>CSS3</div>
                     <div className='skillbox'><img alt='PostgreSQL Logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png'></img>PostgreSQL</div>
                     <div className='skillbox'><img alt='PostgreSQL Logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png'></img>MATLAB</div>
