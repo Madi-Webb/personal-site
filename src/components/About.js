@@ -30,10 +30,11 @@ const About = () => {
                 <div className='subber-section-title'>Libraries and Frameworks</div>
                 <div className='skillbox-container'>
                     <div className='little-skillbox'><img alt='React Logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'></img>React</div>
+                    <div className='little-skillbox'><img alt='FastAPI Logo' src='https://cdn.worldvectorlogo.com/logos/fastapi.svg'></img>FastAPI</div>
                     <div className='little-skillbox'><img alt='Django Logo' src='https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png'></img>Django</div>
                     <div className='little-skillbox'><img alt='Vue.js Logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png'></img>Vue.js</div>
                     <div className='little-skillbox'><img alt='Node.js Logo' src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'></img>Node.js</div>
-                    <div className='little-skillbox'><img alt='Express.js' src='https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png'></img>Express.js</div>
+                    <div className='little-skillbox'><img alt='Express.js Logo' src='https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png'></img>Express.js</div>
                 </div>
             </div>
 
